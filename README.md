@@ -1,6 +1,6 @@
 ___________________________________________________________________________________________________________________________________________________
-<h1 align="center">H E L L O Sreelakshmi</h1>
-<h3 align="center">Curious mind with passion for learning new stuffs</h3>
+<h1 align="center">H E L L O</h1>
+<h3 align="center"> Sreelakshmi here ,</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
