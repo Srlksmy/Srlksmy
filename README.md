@@ -1,7 +1,8 @@
 ___________________________________________________________________________________________________________________________________________________
-<h1 align="center">H E L L O</h1>
-<h3 align="center"> Sreelakshmi here ,</h3>
+![flower](https://www.flaticon.com/free-animated-icon/spring_14822084?term=flower&page=1&position=4&origin=search&related_id=14822084)
 
+<h1 align="center">H E L L O</h1>
+<p  align="center">welcome to my page </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sreeeeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sreeeeee" height="30" width="40" /></a>
