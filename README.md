@@ -1,6 +1,4 @@
 ___________________________________________________________________________________________________________________________________________________
-![flower](https://www.flaticon.com/free-animated-icon/spring_14822084?term=flower&page=1&position=4&origin=search&related_id=14822084)
-
 <h1 align="center">H E L L O</h1>
 <p  align="center">welcome to my page </p>
 <h3 align="left">Connect with me:</h3>
